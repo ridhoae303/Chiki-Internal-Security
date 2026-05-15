@@ -27,7 +27,6 @@ Some protections included in Chiki加固:
 - Debugging detection
 - Frida detection
 - Hook framework detection
-- killSignature detection
 - Emulator and suspicious environment checks
 - Package and signature verification
 - Native layer protection
