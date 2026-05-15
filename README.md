@@ -64,3 +64,15 @@ Once again, thank you for the reports and testing support.
 
 Active internal project.  
 Used only in proprietary environments.
+
+## Built by
+
+*@ridhoae303*
+
+Internal Android protection framework powered by native runtime validation and anti-tampering systems.
+
+<p align="center">
+  <sub>Chiki加固 — Internal Use Only</sub>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=120&section=footer"/>
