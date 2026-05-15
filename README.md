@@ -1,6 +1,6 @@
 # Chiki加固 Protection Framework
 
-![Chiki加固 Banner](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/banner.png)
+![Chiki加固 Banner](https://raw.githubusercontent.com/ridhoae303/Chiki-Internal-Security/main/banner/chiki-banner.jpg)
 
 Internal Android protection framework focused on runtime integrity, anti-tampering, and hostile environment detection.
 
