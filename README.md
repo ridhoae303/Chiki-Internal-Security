@@ -2,12 +2,12 @@
 
 ![Chiki Banner](https://raw.githubusercontent.com/ridhoae303/Chiki-Internal-Security/main/banner/chiki-banner.jpg)
 
-Internal Android protection framework focused on runtime integrity, anti-tampering, and hostile environment detection.
+Internal Android protection framework focused on anti-tampering, and hostile environment detection.
 
 Chiki加固 is a private protection system built for internal Android applications and proprietary environments.  
 This framework is **not public software** and **not open source**.
 
-The name **"Chiki"** comes from a combination of **Chihiro** and **Maki**, two characters from Veritas in Blue Archive a programming and hacking club that became one of the inspirations behind this project.
+The name **"Chiki"** comes from a combination of **Chihiro** and **Maki**, two characters from Veritas in Blue Archive, a programming and hacking club that became one of the inspirations behind this project.
 
 ## What is Chiki加固?
 
