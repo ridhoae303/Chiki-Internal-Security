@@ -67,7 +67,11 @@ Used only in proprietary environments.
 
 ## Built by
 
-*@ridhoae303*
+<p align="center">
+  <a href="https://github.com/ridhoae303">
+    <img src="https://img.shields.io/badge/Built%20by-@ridhoae303-111111?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 Internal Android protection framework powered by native runtime validation and anti-tampering systems.
 
