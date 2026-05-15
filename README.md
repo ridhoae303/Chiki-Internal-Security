@@ -1,4 +1,4 @@
-# Chiki加固 Security Framework
+# Chiki加固 Security Introduction
 
 ![Chiki Banner](https://raw.githubusercontent.com/ridhoae303/Chiki-Internal-Security/main/banner/chiki-banner.jpg)
 
@@ -44,7 +44,7 @@ Some internal protections are intentionally not documented.
 
 ## Open Source?
 
-No.
+**No.**
 
 Chiki加固 is a private internal framework and is not intended to be released as open source software.
 
