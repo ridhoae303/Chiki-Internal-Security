@@ -24,17 +24,16 @@ The idea behind Chiki加固 is simple:
 
 Some protections included in Chiki加固:
 
-- Runtime integrity checks
-- Anti-debugging detection
-- Anti-Frida detection
-- Anti-hook framework detection
+- Debugging detection
+- Frida detection
+- Hook framework detection
+- killSignature detection
 - Emulator and suspicious environment checks
 - Package and signature verification
 - Native layer protection
 - Runtime scanning and monitoring
 - Suspicious library detection
 - Root-related environment checks
-- Basic anti-repackaging protection
 
 Some internal protections are intentionally not documented.
 
