@@ -1,0 +1,69 @@
+CHIKI INTERNAL SECURITY LICENSE
+
+Copyright (c) 2026 ridhoae303 (https://github.com/ridhoae303)
+
+This project belongs to ridhoae303.
+
+Chiki加固 is a private Android protection framework built for internal apps, proprietary environments, and controlled deployments. It is shared here only as a project introduction, not as an invitation to copy, reuse, repackage, or turn it into somebody else's product.
+
+This is not an open-source license.
+
+Viewing this repository does not give you ownership, usage rights, redistribution rights, commercial rights, or permission to copy the project.
+
+Keep it simple:
+
+1) You may read the public information in this repository.
+2) You may reference the project name when talking about the repository fairly.
+3) You may not take the code, private logic, internal design, binaries, documentation, branding, or protection flow and use it as your own.
+
+If you do not have direct permission from ridhoae303, you are not allowed to use Chiki加固.
+
+1. NO PUBLIC USE
+Chiki加固 is not made for public deployment, public resale, public security services, or general community use.
+
+2. NO COPYING OR CLONING
+   a) Do not copy this project.
+   b) Do not clone its structure.
+   c) Do not rebuild its internal logic.
+   d) Do not rename it and call it yours.
+   e) Do not use it as a base for another protector.
+   f) Do not port it into another language, platform, SDK, framework, or private tool without permission.
+   g) Changing the name, moving files around, rewriting comments, or editing the UI does not make it a new project.
+
+3. NO REDISTRIBUTION
+   a) You may not upload, mirror, leak, repost, archive, fork, bundle, sell, trade, or privately share any part of Chiki加固 without permission.
+   b) This includes source code, binaries, snippets, internal notes, build scripts, native components, documentation, screenshots of private parts, and any modified version.
+   c) If you received Chiki加固 from anyone other than ridhoae303, treat it as unauthorized.
+
+4. NO CREDIT REMOVAL
+   a) Do not remove ridhoae303 from the project.
+   b) Do not hide the original author.
+   c) Do not replace the branding.
+   d) Do not claim the idea, design, workflow, or implementation as your own.
+   e) If permission is granted for limited use, credit must remain clear and visible: "Chiki加固 by ridhoae303"
+
+5. PRIVATE SECURITY DETAILS
+   a) Some parts of Chiki加固 are intentionally not documented.
+   b) That includes detection rules, runtime decisions, native validation behavior, response handling, private indicators, and internal protection logic.
+   c) You may not publish, explain, leak, sell, bypass, or expose those details without permission.
+   d) No writeups. No teardown posts. No bypass guides. No private logic dumps. No selling internal behavior to other people.
+
+6. MODIFICATION RULES
+   a) You may not modify Chiki加固 unless ridhoae303 gives you direct permission.
+   b) If permission is granted, the modified version must stay private unless stated otherwise. You must clearly mark it as modified, and you may not present it as the official version.
+   c) You also may not use the Chiki加固 name for your own fork, clone, patch, or rewritten version unless ridhoae303 allows it.
+
+7. NO WARRANTY
+   a) Chiki加固 is provided as-is.
+   b) There is no promise that it will work on every device, stop every attack, block every tamper attempt, prevent every bypass, or fit every project.
+   c) You are responsible for your own testing, deployment, integration, and usage decisions.
+
+8. NO LIABILITY
+   a) ridhoae303 is not responsible for damage, bugs, crashes, data loss, security incidents, bypasses, misuse, abuse, broken apps, failed deployments, legal issues, or any other problem caused by using, copying, modifying, leaking, or relying on Chiki加固.
+   b) If you use it without permission, that is on you.
+
+9. PERMISSION
+   a) Any use beyond reading the public repository overview requires direct permission from ridhoae303.
+   b) No permission means no use.
+
+That is the whole deal.
